@@ -1,5 +1,6 @@
 this is some changes making in random.txt hope it get reflected 	:
-B
+
+this canB
 
 C
 th
